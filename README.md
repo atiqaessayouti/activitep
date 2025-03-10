@@ -1,4 +1,4 @@
-CREATE TABLE Activité (
+CREATE TABLE Activite (
     id INT AUTO_INCREMENT PRIMARY KEY,
     intitule VARCHAR(255) NOT NULL,
     date DATE NOT NULL,
@@ -12,7 +12,7 @@ CREATE TABLE Étudiant (
     email VARCHAR(100) NOT NULL UNIQUE
 );
 
-CREATE TABLE ParticipationActivité (
+CREATE TABLE ParticipationActivite (
     id INT AUTO_INCREMENT PRIMARY KEY,
     activité_id INT NOT NULL,
     etudiant_id INT NOT NULL,
