@@ -51,6 +51,9 @@ Un système complet pour organiser, suivre et analyser les activités pédagogiq
 
 [Regarder la vidéo locale](demoprojetCom.mp4)
 
+[Regarder la vidéo](https://github.com/user-attachments/assets/dd6bd8df-0d87-40b1-bbcc-ff272e49361b)
+
+
 ### **Description de l'Architecture**
 Le système est basé sur une architecture **client-serveur** avec les composants suivants :
 1. **Frontend** : L'interface utilisateur est développée en Java Swing, permettant une interaction intuitive avec les utilisateurs.
