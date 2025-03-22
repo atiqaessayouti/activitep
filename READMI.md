@@ -49,7 +49,7 @@ Un système complet pour organiser, suivre et analyser les activités pédagogiq
 ![Diagramme d'architecture](src/gui/images/Architectureee.png)
 ### Vidéo Locale
 
-[Regarder la vidéo locale](demoprojetCom.mp4)
+[Regarder la vidéo locale]([demoprojetCom.mp4](https://github.com/user-attachments/assets/f638e4c1-5cd5-437e-add2-fd16c2009795))
 
 ### **Description de l'Architecture**
 Le système est basé sur une architecture **client-serveur** avec les composants suivants :
