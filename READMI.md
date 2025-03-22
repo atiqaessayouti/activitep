@@ -41,7 +41,7 @@ Un système complet pour organiser, suivre et analyser les activités pédagogiq
 ![Diagramme de classe](./src/gui/images/classe.png)
 
 ### Diagramme d'Utilisation
-![Diagramme d'utilisation](./src/gui/images/utilisation.png)
+![Diagramme d'utilisation](./src/gui/images/utilisationn.png)
 
 ---
 
@@ -114,5 +114,7 @@ CREATE TABLE ParticipationActivité (
 CREATE TABLE User (
     login VARCHAR(100) PRIMARY KEY,
     password VARCHAR(150) NOT NULL,
-    email VARCHAR(255) NOT NULL
+    securityQuestion VARCHAR(255),
+    securityAnswer VARCHAR(255),
+    email VARCHAR(255);
 )
