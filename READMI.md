@@ -54,6 +54,7 @@ https://github.com/user-attachments/assets/b2ecaa8e-19e6-42de-8606-ade9d3550fd0
 ![Diagramme d'architecture](src/gui/images/Archit.png)
 
 
+
 ### **Description de l'Architecture**
 Le système est basé sur une architecture **client-serveur** avec les composants suivants :
 1. **Frontend** : L'interface utilisateur est développée en Java Swing, permettant une interaction intuitive avec les utilisateurs.
