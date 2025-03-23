@@ -44,7 +44,10 @@ Un système complet pour organiser, suivre et analyser les activités pédagogiq
 ![Diagramme d'utilisation](./src/gui/images/utilisationn.png)
 
 ---
+### 📺Vidéo démonstraton
 
+
+https://github.com/user-attachments/assets/b2ecaa8e-19e6-42de-8606-ade9d3550fd0
 ## 🏛️ Architecture du Système
 
 ### **Diagramme d'Architecture**
@@ -57,11 +60,7 @@ Le système est basé sur une architecture **client-serveur** avec les composant
 2. **Backend** : La logique métier et la gestion des données sont gérées par une base de données MySQL, accessible via JDBC.
 3. **Base de Données** : Les données sont stockées dans des tables relationnelles (Activité, Étudiant, ParticipationActivité, User).
 4. **Authentification** : Un système sécurisé de connexion et de réinitialisation de mot de passe est implémenté.
-### Vidéo Locale
 
-![vidéo démonstration](https://github.com/user-attachments/assets/b2ecaa8e-19e6-42de-8606-ade9d3550fd0)
-
-https://github.com/user-attachments/assets/b2ecaa8e-19e6-42de-8606-ade9d3550fd0
 ---
 
 ## 🛠️ Technologies
