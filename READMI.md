@@ -38,7 +38,7 @@ Un système complet pour organiser, suivre et analyser les activités pédagogiq
 ## 🖼️ Diagrammes
 
 ### Diagramme de Classe
-![Diagramme de classe](./src/gui/images/classe.png)
+![Diagramme de classe](./src/gui/images/cla.png)
 
 ### Diagramme d'Utilisation
 ![Diagramme d'utilisation](./src/gui/images/utilisationn.png)
