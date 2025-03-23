@@ -1,5 +1,5 @@
 
-https://github.com/user-attachments/assets/b2ecaa8e-19e6-42de-8606-ade9d3550fd0
+
 # Gestion des Activités Pédagogiques
 
 ## 📚 Description
