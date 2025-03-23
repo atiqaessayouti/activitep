@@ -48,7 +48,7 @@ Un système complet pour organiser, suivre et analyser les activités pédagogiq
 ## 🏛️ Architecture du Système
 
 ### **Diagramme d'Architecture**
-![Diagramme d'architecture](src/gui/images/Architectureee.png)
+![Diagramme d'architecture](src/gui/images/Archit.png)
 ### Vidéo Locale
 
 ![vidéo démonstration](https://github.com/user-attachments/assets/b2ecaa8e-19e6-42de-8606-ade9d3550fd0)
