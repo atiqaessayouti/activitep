@@ -49,21 +49,6 @@ Un système complet pour organiser, suivre et analyser les activités pédagogiq
 
 ### **Diagramme d'Architecture**
 ![Diagramme d'architecture](src/gui/images/Archit.png)
-### Vidéo Locale
-
-![vidéo démonstration](https://github.com/user-attachments/assets/b2ecaa8e-19e6-42de-8606-ade9d3550fd0)
-
-https://github.com/user-attachments/assets/b2ecaa8e-19e6-42de-8606-ade9d3550fd0
-
-
-
-
-
-
-
-
-
-
 
 
 ### **Description de l'Architecture**
@@ -89,7 +74,11 @@ Le système est basé sur une architecture **client-serveur** avec les composant
 - **NetBeans** : Environnement de développement intégré (IDE) pour le développement Java.
 - **StarUML** : Outil de modélisation pour les diagrammes UML.
 - **phpMyAdmin** : Interface web pour la gestion de la base de données MySQL.
+### Vidéo Locale
 
+![vidéo démonstration](https://github.com/user-attachments/assets/b2ecaa8e-19e6-42de-8606-ade9d3550fd0)
+
+https://github.com/user-attachments/assets/b2ecaa8e-19e6-42de-8606-ade9d3550fd0
 ---
 
 ## 🗄️ Code SQL
