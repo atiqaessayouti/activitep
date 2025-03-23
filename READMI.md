@@ -1,7 +1,8 @@
 
 
-# Gestion des Activités Pédagogiques
+# Gestion des Activités Pédagogiques 
 
+![logo de l'application](./src/gui/images/G-Activite.png)
 ## 📚 Description
 Un système complet pour organiser, suivre et analyser les activités pédagogiques et la participation des étudiants.
 
