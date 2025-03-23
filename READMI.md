@@ -57,7 +57,11 @@ Le système est basé sur une architecture **client-serveur** avec les composant
 2. **Backend** : La logique métier et la gestion des données sont gérées par une base de données MySQL, accessible via JDBC.
 3. **Base de Données** : Les données sont stockées dans des tables relationnelles (Activité, Étudiant, ParticipationActivité, User).
 4. **Authentification** : Un système sécurisé de connexion et de réinitialisation de mot de passe est implémenté.
+### Vidéo Locale
 
+![vidéo démonstration](https://github.com/user-attachments/assets/b2ecaa8e-19e6-42de-8606-ade9d3550fd0)
+
+https://github.com/user-attachments/assets/b2ecaa8e-19e6-42de-8606-ade9d3550fd0
 ---
 
 ## 🛠️ Technologies
@@ -74,11 +78,7 @@ Le système est basé sur une architecture **client-serveur** avec les composant
 - **NetBeans** : Environnement de développement intégré (IDE) pour le développement Java.
 - **StarUML** : Outil de modélisation pour les diagrammes UML.
 - **phpMyAdmin** : Interface web pour la gestion de la base de données MySQL.
-### Vidéo Locale
 
-![vidéo démonstration](https://github.com/user-attachments/assets/b2ecaa8e-19e6-42de-8606-ade9d3550fd0)
-
-https://github.com/user-attachments/assets/b2ecaa8e-19e6-42de-8606-ade9d3550fd0
 ---
 
 ## 🗄️ Code SQL
