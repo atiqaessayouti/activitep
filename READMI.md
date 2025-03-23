@@ -51,7 +51,12 @@ Un système complet pour organiser, suivre et analyser les activités pédagogiq
 ![Diagramme d'architecture](src/gui/images/Architectureee.png)
 ### Vidéo Locale
 
-!![Diagramme de video](https://github.com/user-attachments/assets/5c12b253-df24-4f1f-adfe-728654bbc764)
+!![Diagramme de video](https://github.com/user-attachments/assets/1d15c4fd-75c4-498c-a991-0c9d9cae3123)
+
+
+
+
+
 
 
 
