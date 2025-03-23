@@ -1,5 +1,5 @@
 
-https://github.com/user-attachments/assets/03be2196-3da1-4f90-87c0-9b01fff41501
+https://github.com/user-attachments/assets/b2ecaa8e-19e6-42de-8606-ade9d3550fd0
 # Gestion des Activités Pédagogiques
 
 ## 📚 Description
@@ -51,7 +51,11 @@ Un système complet pour organiser, suivre et analyser les activités pédagogiq
 ![Diagramme d'architecture](src/gui/images/Architectureee.png)
 ### Vidéo Locale
 
-!![Diagramme de video](https://github.com/user-attachments/assets/1d15c4fd-75c4-498c-a991-0c9d9cae3123)
+![vidéo démonstration](https://github.com/user-attachments/assets/b2ecaa8e-19e6-42de-8606-ade9d3550fd0)
+
+
+
+
 
 
 
