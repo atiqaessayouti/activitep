@@ -48,7 +48,11 @@ Un système complet pour organiser, suivre et analyser les activités pédagogiq
 ### 📺Vidéo démonstraton
 
 
-https://github.com/user-attachments/assets/b2ecaa8e-19e6-42de-8606-ade9d3550fd0
+
+https://github.com/user-attachments/assets/4534131e-1845-4e60-ae38-1226d801e49a
+
+
+
 ## 🏛️ Architecture du Système
 
 ### **Diagramme d'Architecture**
