@@ -49,7 +49,11 @@ Un système complet pour organiser, suivre et analyser les activités pédagogiq
 
 
 
-https://github.com/user-attachments/assets/8dc3c63c-c176-4658-9542-46b5ed6389e1
+
+
+
+
+https://github.com/user-attachments/assets/533fe81c-aeb8-42c7-b9f5-3ba6b492770e
 
 
 
